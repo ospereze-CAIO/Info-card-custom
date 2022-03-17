@@ -1,0 +1,9 @@
+{
+  "grupocaiopartnerco-Info-Card-Custom": {
+    "component": "InfoCardCustom",
+    "composition": "children"
+  },
+  "grupocaiopartnerco-Info-Card-Custom.InfoCard": {
+    "component": "InfoCard"
+  }
+}
